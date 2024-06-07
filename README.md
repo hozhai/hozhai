@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/hzhai07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hzhai07" height="30" width="40" /></a>
 <a href="https://instagram.com/_zhai07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_zhai07" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/zhai_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zhai_" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@itszhai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="zhai_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
