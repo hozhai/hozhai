@@ -1,5 +1,7 @@
 ![literally me](https://github.com/Zhai90/Zhai90/blob/main/greentext.png)
+
 here are some badges that show what i do :D
+
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
