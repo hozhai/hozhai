@@ -11,5 +11,5 @@
 \>ffw 7 years
 \>addicted to computers
 </code>
-${{\color{Greenyellow}\Huge{\textsf{  Hi\ there\ \}}}}\$
+${{\color{Greenyellow}{\textsf{  Hi\ there\ \}}}}\$
 yeah hi :D
