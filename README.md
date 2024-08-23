@@ -10,6 +10,7 @@
 \>wowzers.jpeg
 \>ffw 7 years
 \>addicted to computers
-</code>
 ${{\color{Greenyellow}{\textsf{  Hi\ there\ \}}}}\$
+</code>
+
 yeah hi :D
