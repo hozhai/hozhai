@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Odysseus](https://github.com/hozhai/odysseus)
 
-- 🌱 I’m currently learning **Go and Vue!**
+- 🌱 I’m currently learning **Rust!**
 
 - 📫 How to reach me **zhaihongmeng@gmail.com**
 
