@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hozhai&label=Profile%20views&color=0e75b6&style=flat" alt="hozhai" /> </p>
 
-- 🔭 I’m currently working on [Nuko](https://github.com/hozhai/nuko)
+- 🔭 I’m currently working on [Odysseus](https://github.com/hozhai/odysseus)
 
-- 🌱 I’m currently learning **C++** and **Java**!
+- 🌱 I’m currently learning ***"I'm not even sure at this point"***!
 
 - 📫 How to reach me **zhaihongmeng@gmail.com**
 
