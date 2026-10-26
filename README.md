@@ -4,9 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hozhai&label=Profile%20views&color=0e75b6&style=flat" alt="hozhai" /> </p>
 
 - 🔭 I’m currently working on [Odysseus](https://github.com/hozhai/odysseus)
-
-- 🌱 I’m currently learning **Astro** and still learning **Rust**!
-
+  
 - 📫 How to reach me **zhaihongmeng@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
